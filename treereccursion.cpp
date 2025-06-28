@@ -17,7 +17,6 @@ void fun (int n )
 
 fun(3);
 
-
  return 0;
   
  }
