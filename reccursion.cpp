@@ -20,7 +20,6 @@ int   main (){
 int x=30;
 fun1(x);
  
-
     return 0;
      
 }

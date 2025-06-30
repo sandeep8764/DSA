@@ -29,7 +29,6 @@ int sum (int n){
     printf("Sum of n natural number is :%d\n",result);
      
 
-
      return 0;
       
  }

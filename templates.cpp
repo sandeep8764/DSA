@@ -35,8 +35,6 @@ class Arithmetic {
 
 
 };
- 
-
 
 
 int main (){
@@ -49,13 +47,6 @@ int main (){
 
     Arithmetic<float> ar3(12.35,12.45);
     cout<<"Addition of float number :"<< ar3.Add()<< endl ;
-     
-
-     
-
-
-
-
 
     return 0;
 

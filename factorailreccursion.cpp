@@ -14,13 +14,10 @@
 
  }
 
-
-
-
   int main (){
 
 
-    int x=0;
+    int x=5;
     int result =fact(x);
     printf(" Factoral of given number is :%d\n",result);
      

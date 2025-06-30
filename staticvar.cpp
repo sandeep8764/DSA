@@ -26,10 +26,6 @@ return 0;
 
 
     printf("%d\n",fun(x));
-    
-
-
-
 
 
     return 0;
