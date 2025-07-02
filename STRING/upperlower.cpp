@@ -12,12 +12,12 @@ int main()
     {
         if(string[i]>=65 && string[i]<=90)
         {
-            string[i]+=32;
+            string[i]+=32; // Convert Upper Case To Lower Case 
 
         }
          else if(string[i]>=97 && string[i]<=122)
          {
-         string[i]-=32;
+         string[i]-=32; // Convert Lower case to Upper Case 
          }
 
 
