@@ -94,6 +94,7 @@ int main ()
      
      // Code For Deletion of DLL 
      
+     Delete(first,4);
      
      
      
